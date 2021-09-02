@@ -2,6 +2,7 @@ import cv2
 import mediapipe as mp
 # to check the frame rate
 import time
+import math
 
 
 print("HandTrackingMin Ready")
