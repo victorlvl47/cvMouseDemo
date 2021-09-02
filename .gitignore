@@ -6,3 +6,5 @@ lib64
 __pycache__/
 share/
 pyvenv.cfg
+# ignore vim files
+*.sw*
