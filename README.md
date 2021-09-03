@@ -2,6 +2,8 @@
 
 Note: Click the image to go to the video.
 
+[![CV Mouse Demo Thumbnail](https://img.youtube.com/vi/iyHlqoBSBc0/0.jpg)](https://www.youtube.com/watch?v=iyHlqoBSBc0)
+
 Use your webcam and hand gestures to control your computer's mouse cursor.
 
 #### Instructions:
